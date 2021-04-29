@@ -5,11 +5,10 @@ dependencies:
   - python=3.8
   - bokeh
   - dask
-  - dask-sql
+  - dask-sql=0.3.2
   - jupyterlab
   - nodejs
   - tornado
-  - numpy
   - pip
   - matplotlib
   - dask_labextension  
