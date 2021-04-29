@@ -4,11 +4,13 @@ channels:
 dependencies:
   - python=3.8
   - bokeh
-  - dask
+  - dask=2021.2.0
+  - distributed=2021.2.0
   - dask-sql=0.3.2
   - jupyterlab
   - nodejs
   - tornado
   - pip
   - matplotlib
-  - dask_labextension  
+  - dask_labextension
+
